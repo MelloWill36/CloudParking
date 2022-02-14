@@ -1,5 +1,7 @@
 package one.dio.cloudparking.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import java.time.LocalDateTime;
 
 public class Parking {
